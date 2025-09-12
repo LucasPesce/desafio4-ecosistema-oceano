@@ -3,7 +3,7 @@ package desafio4.ecosistema.oceano;
  *
  * @author LucBaquero
  */
-public class Animal {
+public abstract class Animal {
     // ATRIBUTOS
     private String nombre;
     private int salud;
