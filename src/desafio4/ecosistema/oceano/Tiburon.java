@@ -1,6 +1,5 @@
 package desafio4.ecosistema.oceano;
 /**
- *
  * @author LucBaquero
  */
 public class Tiburon extends Animal implements HabitatOceano {
