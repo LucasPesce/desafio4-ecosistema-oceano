@@ -3,7 +3,6 @@ package desafio4.ecosistema.oceano;
  *
  * @author Ceciia
  */
-public class TortugaMarina {
 public class TortugaMarina extends Animal implements HabitatOceano{
      // ATRIBUTO
     private boolean caparazonEscondido; 
